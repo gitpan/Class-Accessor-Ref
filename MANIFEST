@@ -2,7 +2,6 @@ Changes
 INSTALL
 MANIFEST
 Makefile.PL
-README
 examples/API.pm
 examples/client.pl
 lib/Class/Accessor/Ref.pm
