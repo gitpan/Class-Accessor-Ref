@@ -7,3 +7,4 @@ examples/API.pm
 examples/client.pl
 lib/Class/Accessor/Ref.pm
 t/Accessor-Ref.t
+META.yml                                Module meta-data (added by MakeMaker)
